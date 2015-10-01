@@ -1,0 +1,25 @@
+﻿body {
+}
+
+#cursos
+{
+
+}
+
+#gestion
+{
+    background-color:blue;
+    display: inline;
+    float: left;
+    width: 30%;
+    min-height: 100px;
+}
+
+#listado 
+{
+    display: inline;
+    float: left;
+    background-color: red;
+    width: 10%;
+    /*min-height: 100px;*/
+}
